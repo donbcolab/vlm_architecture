@@ -1,6 +1,6 @@
 # vlm_architecture
 
-- a significant amount of credit and thanks to Haotian Liu and the LLaVa team for establishing key patterns for both open source Vision Language Models (VLMs) and multi-modal language models (MMLMs)
+- a significant amount of credit and thanks to [Haotian Liu and the LLaVa project team](https://llava-vl.github.io/) for establishing key patterns for both open source Vision Language Models (VLMs) and multi-modal language models (MMLMs)
 ![image](https://github.com/donbcolab/vlm_architecture/assets/160785135/59ccb80c-5fad-4cf6-8302-1ad9c0a079e5)
 
 
