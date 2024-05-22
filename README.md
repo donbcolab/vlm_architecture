@@ -2,7 +2,7 @@
 
 ## VLM Comparison
 
-- only a sample focusing on modes with less than 10 billion parameters
+- only a sample focusing on models with less than 10 billion parameters
 
 | Model                       | # of Parameters | Architecture               | Vision Encoder                        | Pooling          | Modality Projection       | Language Model Backbone        | Fine-tuning Method           | Flash Attention | Hugging Face Model Card URL                                                                                     |
 |-----------------------------|-----------------|----------------------------|---------------------------------------|------------------|---------------------------|-------------------------------|------------------------------|-----------------|---------------------------------------------------------------------------------------------------------------|
