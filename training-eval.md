@@ -22,19 +22,19 @@
 
 #### Idefics2
 - **Training**: Leveraged large-scale datasets including Wikipedia, Public Multimodal Dataset, LAION, and a newly created dataset named OBELICS, which consists of 141 million interleaved image-text documents.
-- **Testing and Evaluation**: Benchmarked on datasets like COCO Caption, TextVQA, and NoCaps. Evaluated using standard metrics such as BLEU, CIDEr, and SPICE【126†source】【129†source】.
+- **Testing and Evaluation**: Benchmarked on datasets like COCO Caption, TextVQA, and NoCaps. Evaluated using standard metrics such as BLEU, CIDEr, and SPICE.
 
 #### Mantis
 - **Training**: Utilized datasets like LAION-400M, CC3M, and SBU to train the model with a focus on multimodal data.
-- **Testing and Evaluation**: Performance evaluated on vision-language tasks using COCO Caption, Visual Genome, TextVQA, and DocVQA datasets. Metrics used include BLEU, CIDEr, and SPICE【128†source】.
+- **Testing and Evaluation**: Performance evaluated on vision-language tasks using COCO Caption, Visual Genome, TextVQA, and DocVQA datasets. Metrics used include BLEU, CIDEr, and SPICE.
 
 #### LLaVA (Large Language and Vision Assistant)
 - **Training**: Employed datasets from Common Crawl, COCO, Flickr30k, LAION, ImageNet, and WIT.
-- **Testing and Evaluation**: LMMs-Eval pipeline used for evaluation, supporting multiple datasets and enabling efficient benchmarking. Utilized metrics from lm-evaluation-harness for consistent evaluation  .
+- **Testing and Evaluation**: LMMs-Eval pipeline used for evaluation, supporting multiple datasets and enabling efficient benchmarking. Utilized metrics from lm-evaluation-harness for consistent evaluation .
 
 #### LLaVA-NeXT
 - **Training**: Similar datasets as LLaVA, but specific details not fully provided. Likely includes extensive and diverse multimodal datasets.
-- **Testing and Evaluation**: Includes zero-shot modality transfer capabilities and DPO training with AI feedback on videos. Evaluated using the LMMs-Eval pipeline, similar to LLaVA, based on the EleutherAI’s lm-evaluation-harness framework  .
+- **Testing and Evaluation**: Includes zero-shot modality transfer capabilities and DPO training with AI feedback on videos. Evaluated using the LMMs-Eval pipeline, similar to LLaVA, based on the EleutherAI’s lm-evaluation-harness framework .
 
 ### Conclusion
 
